@@ -38,7 +38,7 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 200,
-    "max-reconnect-delay": 1200000
+    "max-reconnect-delay": -1
   },
   "movement": {
     "enabled": true,
@@ -73,7 +73,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1520614098168058036/eU0JHSt_jPzg0qLpHkieaCerGLYneblklA0Ttl10touXENdEzs8YG-WSva0yMLTvlQkm",
     "events": {
       "connect": true,
       "disconnect": true,
